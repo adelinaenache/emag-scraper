@@ -1,0 +1,10 @@
+{
+	"mongo": {
+		"url": "mongodb://localhost:27017/products",
+		"options": {
+			"socketTimeoutMS": 0,
+			"keepAlive": true,
+			"reconnectTries": 30
+		}
+	}
+}
